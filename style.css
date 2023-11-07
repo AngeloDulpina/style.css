@@ -1,0 +1,78 @@
+body
+{
+    background-color: brown;
+}
+
+.background img
+{
+    height: 400px;
+    width: 1400px
+}
+
+
+
+
+
+h1
+{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.image img
+{
+    height: 220px;
+    width:220px;
+    margin-left: 100px;
+}
+
+.detail
+{
+    margin-left: 340px;
+    margin-top: -200px;
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+}
+
+.about
+{
+    width: 1200px;
+    height 50px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.about h2
+{
+    color:white;
+    margin-left: 50px;
+    line-height: 50px;
+}
+.content
+{
+    margin-left: 100px;
+    margin-right: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Education
+{
+    margin-left: 1000px;
+    background-color: gray;  
+}
+
+.information
+{
+    margin-left: 90px;
+    margin-right: 80%;
+    margin-top: -180px;
+    background-color: gray;
+}
+
+.navigation
+{
+
+}
